@@ -81,12 +81,7 @@ Para desplegar la aplicación en **CloudHub**, sigue estos pasos:
 4. Configura las propiedades según el entorno.
 5. Verifica el estado de la aplicación.
 
-## Mejoras Adicionales
-Puedes mejorar la solución explorando los siguientes temas:
 
-1. **Creación de API en API Manager.**
-2. **Configuración de API Autodiscovery para gestionar la API desde Anypoint Platform.**
-3. **Aplicación de políticas de seguridad como Client-ID Enforcement.**
 
 ## Pruebas
 Puedes probar el funcionamiento de la API utilizando **Postman**, realizando una petición `GET` al endpoint:
