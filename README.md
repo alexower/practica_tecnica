@@ -1,4 +1,4 @@
-# Práctica Técnica - API de Clientes con MuleSoft
+# API de Clientes con MuleSoft
 
 ## Descripción del Proyecto
 Este repositorio contiene la implementación de una API desarrollada con **MuleSoft** para exponer información de clientes almacenada en una base de datos MySQL. La API permite a los equipos de marketing acceder a los datos de los clientes para crear campañas personalizadas que mejoren la experiencia y satisfacción del cliente.
